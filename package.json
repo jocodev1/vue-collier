@@ -1,0 +1,30 @@
+{
+  "name": "vue-collier",
+  "version": "0.0.10",
+  "description": "Made to provide an easy-to-use, mobile css framework based off Skeleton CSS with the amazing flexibility of Vue JS.",
+  "main": "Main.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "responsive-nav": "^1.0.39",
+    "skeleton-css": "^2.0.4"
+  },
+  "scripts": {},
+  "keywords": [
+    "vue",
+    "scss"
+  ],
+  "author": {
+    "name": "Collier Devlin"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jocodev1/vue-collier.git"
+  },
+  "maintainers": [
+    {
+      "name": "jocodev",
+      "email": "jocodev@gmail.com"
+    }
+  ]
+}
