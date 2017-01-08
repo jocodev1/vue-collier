@@ -5,6 +5,13 @@ Created by Collier Devlin
 ### Why it was made...
 This package was made to provide an easy-to-use, mobile css framework based off Skeleton CSS with the amazing flexibility and performance of Vue JS. Developers can often experience trouble with how long webpack takes to bundle a large framework such as Bootstrap and all the configuration that comes along with it, so vue-collier provides a much lighter alternative when quickly crafting your next idea.
 
+### Features
+- SCSS Templating based off Skeleton CSS (not complete)
+
+### Additional Plugin Included
+- Font-Awesome
+- Chart JS (through vue-chartjs wrapper)
+
 ### Getting Started
 To begin using vue-collier, simply install it using
 `npm install --save vue-collier`
