@@ -6,7 +6,8 @@
   "dependencies": {
     "font-awesome": "^4.7.0",
     "responsive-nav": "^1.0.39",
-    "skeleton-css": "^2.0.4"
+    "skeleton-css": "^2.0.4",
+    "vue-chartjs": "^2.3.2"
   },
   "scripts": {},
   "keywords": [
